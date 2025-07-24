@@ -1,6 +1,6 @@
 # Nessus CSV to Consolidated Vulnerability Report Converter By Srikqr
 
-This project contains a Python script (`tool_report_Separate.py`) that transforms one or more Nessus CSV export files into a single, well-structured Excel workbook. The resulting workbook makes it easier to track, remediate, and report vulnerabilities discovered during network scans.
+This project contains a Python script (`CSV-To-Excel.py`) that transforms one or more Nessus CSV export files into a single, well-structured Excel workbook. The resulting workbook makes it easier to track, remediate, and report vulnerabilities discovered during network scans.
 
 ## Key Features
 
